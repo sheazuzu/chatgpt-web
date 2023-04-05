@@ -1,9 +1,9 @@
 {
-  "name": "chatgpt-web",
+  "name": "sheagpt-web",
   "version": "2.4.0",
   "private": false,
   "description": "SheaGPT Web",
-  "author": "GrantLi <gjxslwz@gmail.com>",
+  "author": "ZhenyuXie <sheazuzu@hotmail.com>",
   "keywords": [
     "chatgpt-web",
     "chatgpt",
